@@ -10,5 +10,5 @@
         "scripts/discordbridge.js"
     ],
     "manifest": "https://raw.githubusercontent.com/iamedd/foundry-discordbridge/master/module.json",
-    "download": "https://github.com/nearlyNonexistent/foundry-discordbridge/archive/master.zip"
+    "download": "https://github.com/iamedd/foundry-discordbridge/archive/master.zip"
   }
